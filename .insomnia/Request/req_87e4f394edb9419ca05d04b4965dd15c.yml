@@ -1,0 +1,37 @@
+_id: req_87e4f394edb9419ca05d04b4965dd15c
+type: Request
+parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
+modified: 1655112498637
+created: 1655112490277
+url: https://smartlookupfunction20200221104022.azurewebsites.net/api/SmartLookupFunction
+name: General Url
+description: ""
+method: POST
+body: {}
+parameters:
+  - name: code
+    value: DIc9ov8Z7ib4dpvYeWIRcXa7DbGd6WU5QefxSwZRWMuOLOO7QhVedg==
+    disabled: false
+    id: pair_3a42ce7b9e3f49f28885577afd476892
+  - name: queueName
+    value: dssl_UNIK----_1234_mkn
+    disabled: false
+    id: pair_b2cad868ab854586b4e77978e35f0708
+  - name: callingNumber
+    value: "76767676"
+    disabled: false
+    id: pair_acc7c807b0804b4189376392bcf114e4
+  - name: ""
+    value: ""
+    disabled: false
+    id: pair_f1ed97b484564fa3bb24b908f53f8e88
+headers: []
+authentication: {}
+metaSortKey: -1655112490277
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

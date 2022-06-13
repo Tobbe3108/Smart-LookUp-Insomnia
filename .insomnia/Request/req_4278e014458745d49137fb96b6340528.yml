@@ -1,0 +1,41 @@
+_id: req_4278e014458745d49137fb96b6340528
+type: Request
+parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
+modified: 1655112540635
+created: 1655112536572
+url: https://flexfonefunctoinupdate.azurewebsites.net/api/FlexfoneFunction
+name: Test Flexfone Post
+description: ""
+method: POST
+body:
+  mimeType: application/json
+parameters:
+  - name: code
+    value: pBZJTpRV7216wg0HaarmrXAahSsv6Yac752TaBko3YpJQ0EVxJw5FA==
+    disabled: false
+    id: pair_adf6082249ae4d73b792c871898569a2
+  - name: AccountId
+    value: "999"
+    disabled: false
+    id: pair_ac82a2b0e1fd43c6a99f57645fcbceb6
+  - name: EmployeeLocalNumber
+    value: "999"
+    disabled: false
+    id: pair_29049f6a118348048bf427e5150e262e
+  - name: ANumber
+    value: "76"
+    disabled: false
+    id: pair_6d09602f854c4c94be3850e89145436c
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_42eb5dd05ead447db4e3bfc44d4a5fc5
+authentication: {}
+metaSortKey: -1655112536572
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,37 @@
+_id: req_4f554d6dc9c14eeeac6854bf746fa711
+type: Request
+parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
+modified: 1655112549171
+created: 1655112543758
+url: http://localhost:7071/api/FlexfoneFunction
+name: Local Flexfone Post
+description: ""
+method: POST
+body:
+  mimeType: application/json
+parameters:
+  - name: AccountId
+    value: "999"
+    disabled: false
+    id: pair_020dc9e3d27d47c79b52970172f3c188
+  - name: EmployeeLocalNumber
+    value: "999"
+    disabled: false
+    id: pair_964a30e16eeb45e18d9614220a21cd01
+  - name: ANumber
+    value: "76767676"
+    disabled: false
+    id: pair_352a155643c245c097a46d1df54f47de
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_c8ddd2c9ef17431ebb7b6702818a66e4
+authentication: {}
+metaSortKey: -1655112543758
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_7a441632db08436389a28dcfaaf53a96
+type: Request
+parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
+modified: 1655112514675
+created: 1655112509617
+url: https://flexfonefunctoinupdate.azurewebsites.net/api/SmartLookupFunction
+name: Test General Url
+description: ""
+method: POST
+body: {}
+parameters:
+  - name: code
+    value: pBZJTpRV7216wg0HaarmrXAahSsv6Yac752TaBko3YpJQ0EVxJw5FA==
+    disabled: false
+    id: pair_1753a0444ce9498d8bbcfcc2f7f2a079
+  - name: queueName
+    value: flexfone_1234_5678
+    disabled: false
+    id: pair_19647276dcdb4191a2e7c4be4d96d726
+  - name: callingNumber
+    value: "76767676"
+    disabled: false
+    id: pair_88406472abf341259d5a3a8b8895d4b8
+headers: []
+authentication: {}
+metaSortKey: -1655112509617
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_b1f216c10baa4474a34f6348dcabdf33
+type: Request
+parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
+modified: 1655112522125
+created: 1655112518169
+url: http://localhost:7071/api/SmartLookupFunction
+name: Local General Url
+description: ""
+method: POST
+body: {}
+parameters:
+  - name: code
+    value: DIc9ov8Z7ib4dpvYeWIRcXa7DbGd6WU5QefxSwZRWMuOLOO7QhVedg==
+    disabled: false
+    id: pair_610305e16fc942deb18477f8c8c640e4
+  - name: queueName
+    value: flexfone_1234_5678
+    disabled: false
+    id: pair_7d28459d2aa9494c91769b466012f871
+  - name: callingNumber
+    value: "76767676"
+    disabled: false
+    id: pair_5250f7af961c452c894ce8a3f22f66ff
+headers: []
+authentication: {}
+metaSortKey: -1655112518169
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

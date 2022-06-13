@@ -1,0 +1,41 @@
+_id: req_87a1cff67eea4691a84029d7a1b131cc
+type: Request
+parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
+modified: 1655112533809
+created: 1655112524547
+url: https://smartlookupfunction20200221104022.azurewebsites.net/api/FlexfoneFunction
+name: Flexfone Post
+description: ""
+method: POST
+body:
+  mimeType: application/json
+parameters:
+  - name: code
+    value: 1rk11MeClgTb8aOzZ0hbUAm3aP6j0Zdwiz062YuxDIOoQOXe57HANA==
+    disabled: false
+    id: pair_208adf0023be4db89f8319ffea346b73
+  - name: AccountId
+    value: "999"
+    disabled: false
+    id: pair_cd0cacb0dff14c9683995bd1e007417e
+  - name: EmployeeLocalNumber
+    value: "999"
+    disabled: false
+    id: pair_d194d3d8617849029f34d5207d1db0b7
+  - name: ANumber
+    value: "76767676"
+    disabled: false
+    id: pair_45dfe1eadbb145ce84819342e5ac413b
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_05c1f4ad4f884c078ae7880703c884aa
+authentication: {}
+metaSortKey: -1655112524547
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
