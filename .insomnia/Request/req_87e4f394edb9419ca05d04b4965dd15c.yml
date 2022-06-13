@@ -1,10 +1,10 @@
 _id: req_87e4f394edb9419ca05d04b4965dd15c
 type: Request
 parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
-modified: 1655112498637
+modified: 1655112802030
 created: 1655112490277
-url: https://smartlookupfunction20200221104022.azurewebsites.net/api/SmartLookupFunction
-name: General Url
+url: "{{ _.FunctionAddress }}/api/SmartLookupFunction"
+name: Smart LookUp Url
 description: ""
 method: POST
 body: {}

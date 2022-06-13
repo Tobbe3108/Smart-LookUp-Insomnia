@@ -1,9 +1,9 @@
 _id: req_4278e014458745d49137fb96b6340528
 type: Request
 parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
-modified: 1655112540635
+modified: 1655112721935
 created: 1655112536572
-url: https://flexfonefunctoinupdate.azurewebsites.net/api/FlexfoneFunction
+url: "{{ _.TestFunctionAddress }}/api/FlexfoneFunction"
 name: Test Flexfone Post
 description: ""
 method: POST

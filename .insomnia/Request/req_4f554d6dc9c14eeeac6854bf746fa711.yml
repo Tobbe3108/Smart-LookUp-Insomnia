@@ -1,9 +1,9 @@
 _id: req_4f554d6dc9c14eeeac6854bf746fa711
 type: Request
 parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
-modified: 1655112549171
+modified: 1655112821886
 created: 1655112543758
-url: http://localhost:7071/api/FlexfoneFunction
+url: "{{ _.localAddress }}/api/FlexfoneFunction"
 name: Local Flexfone Post
 description: ""
 method: POST

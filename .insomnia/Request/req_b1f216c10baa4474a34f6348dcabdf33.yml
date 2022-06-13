@@ -1,10 +1,10 @@
 _id: req_b1f216c10baa4474a34f6348dcabdf33
 type: Request
 parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
-modified: 1655112522125
+modified: 1655112821403
 created: 1655112518169
-url: http://localhost:7071/api/SmartLookupFunction
-name: Local General Url
+url: "{{ _.localAddress }}/api/SmartLookupFunction"
+name: Local Smart LookUp Url
 description: ""
 method: POST
 body: {}

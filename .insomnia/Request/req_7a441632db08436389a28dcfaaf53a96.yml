@@ -1,10 +1,10 @@
 _id: req_7a441632db08436389a28dcfaaf53a96
 type: Request
 parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
-modified: 1655112514675
+modified: 1655112775929
 created: 1655112509617
-url: https://flexfonefunctoinupdate.azurewebsites.net/api/SmartLookupFunction
-name: Test General Url
+url: "{{ _.TestFunctionAddress }}/api/SmartLookupFunction"
+name: Test Smart LookUpUrl
 description: ""
 method: POST
 body: {}

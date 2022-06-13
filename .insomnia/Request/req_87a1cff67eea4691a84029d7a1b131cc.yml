@@ -1,9 +1,9 @@
 _id: req_87a1cff67eea4691a84029d7a1b131cc
 type: Request
 parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
-modified: 1655112533809
+modified: 1655112811881
 created: 1655112524547
-url: https://smartlookupfunction20200221104022.azurewebsites.net/api/FlexfoneFunction
+url: "{{ _.FunctionAddress }}/api/FlexfoneFunction"
 name: Flexfone Post
 description: ""
 method: POST

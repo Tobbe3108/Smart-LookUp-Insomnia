@@ -1,11 +1,18 @@
 _id: env_ce1f954b3169cdd2c9cfc263e1a2757acaed63f1
 type: Environment
 parentId: wrk_86c5e0cbd6a1451a9894eed0c53ae607
-modified: 1655112359885
+modified: 1655112794718
 created: 1655112359885
 name: Base Environment
-data: {}
-dataPropertyOrder: null
+data:
+  localAddress: http://localhost:7071
+  TestFunctionAddress: https://flexfonefunctoinupdate.azurewebsites.net
+  FunctionAddress: https://smartlookupfunction20200221104022.azurewebsites.net
+dataPropertyOrder:
+  "&":
+    - localAddress
+    - TestFunctionAddress
+    - FunctionAddress
 color: null
 isPrivate: false
 metaSortKey: 1655112359885
